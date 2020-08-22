@@ -21,7 +21,7 @@ $ pip3 install awscli --upgrade --user
 ### Deployment Instruction for the Infrastructure
 
 ```bash
-$ ./create.sh stackName network_infrastructure.yml infrastructure_parameters.json
+$ ./create.sh stackName infrastructure-params.yml infrastructure-params.json
 ```
 
 ## Built With
